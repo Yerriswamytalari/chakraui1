@@ -1,0 +1,63 @@
+[
+    {
+        "This data is for chakra UI":"we have to use this in images. by writing the import any name and jsonData.json",
+        "id":"1",
+        "location":"Iceland",
+        "Image":"https://plus.unsplash.com/premium_photo-1668799886418-2335be7716e9?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHx0b3BpYy1mZWVkfDJ8NnNNVmpUTFNrZVF8fGVufDB8fHx8&auto=format&fit=crop&w=500&q=60"
+    },
+    {
+        "id":"2",
+        "location":"NEOM,Saudi Arabia",
+        "Image":"https://images.unsplash.com/photo-1682687220801-eef408f95d71?ixlib=rb-4.0.3&ixid=MnwxMjA3fDF8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80"
+    },
+    {
+        "id":"3",
+        "location":"The Netherlands",
+        "Image":"https://images.unsplash.com/photo-1682802514248-940523a798f5?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80"
+    },
+    {
+        "id":"4",
+        "location":"Bolam Lake Country Park",
+        "Image":"https://images.unsplash.com/photo-1605377558315-1e098a7a5876?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80"
+    },
+    {
+        "id":"5",
+        "location":"Dolomites",
+        "Image":"https://images.unsplash.com/photo-1681930942446-e2d710728485?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1332&q=80"
+    },
+    {
+        "id":"6",
+        "location":"A Colony of Elephent Seals",
+        "Image":"https://images.unsplash.com/photo-1681459459310-023a74f78403?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1309&q=80"
+    },
+    {
+        "id":"7",
+        "location":"Mount Fuji",
+        "Image":"https://images.unsplash.com/photo-1680114015093-b1975c470331?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=464&q=80"
+    },
+    {
+        "id":"8",
+        "location":"Nature Animals",
+        "Image":"https://images.unsplash.com/photo-1680890981209-4a42bc21326c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHx0b3BpYy1mZWVkfDIxMHw2c01WalRMU2tlUXx8ZW58MHx8fHw%3D&auto=format&fit=crop&w=500&q=60"
+    },
+    {
+        "id":"9",
+        "location":"Indonesia",
+        "Image":"https://images.unsplash.com/photo-1672243775410-dfe1de429f91?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80"
+    },
+    {
+        "id":"10",
+        "location":"Kenya",
+        "Image":"https://images.unsplash.com/photo-1627895848677-6ad83bc0b55b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80"
+    },
+    {
+        "id":"11",
+        "location":"U.S.A",
+        "Image":"https://images.unsplash.com/photo-1677624937477-172a9347d363?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8QmlnaG9ybiUyMENhbnlvbiUyME5hdGlvbmFsJTIwUmVjcmVhdGlvbiUyMEFyZWElMkMlMjBGb3J0JTIwU21pdGglMkMlMjBNVCUyQyUyMFVTQXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60"
+    },
+    {
+        "id":"12",
+        "location":"Island",
+        "Image":"https://images.unsplash.com/photo-1678730505377-7b21cabb6485?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80"
+    }
+]
